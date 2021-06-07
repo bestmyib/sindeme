@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+
+}
+
+.headerMenu {
+    background-color: #5704a5;
+    height: 38px;
+    border-bottom: 0px;
+    padding-left: auto;
+    padding-right: auto;
+    width: 100%;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.logo {
+    width: 125;
+}
+
+.logo img {
+    width: 52px;
+    height: 38px;
+}
