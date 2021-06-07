@@ -3,11 +3,11 @@
     margin: 0px;
     padding: 0px;
     font-size: 12px;
-
+    background-color: #fdf9fd;
 }
 
 .headerMenu {
-    background-color: #5704a5;
+    background-color: blueviolet;
     height: 38px;
     border-bottom: 0px;
     padding-left: auto;
@@ -16,6 +16,7 @@
 }
 
 #wrapper {
+    background-color: blueviolet;
     margin-left: auto;
     margin-right: auto;
     width: 1000px;
@@ -24,10 +25,12 @@
 }
 
 .logo {
+    background-color: blueviolet;
     width: 125;
 }
 
 .logo img {
+    background-color: blueviolet;
     width: 52px;
     height: 38px;
 }
